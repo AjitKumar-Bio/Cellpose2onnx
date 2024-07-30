@@ -1,7 +1,3 @@
-Sure, I'll create a README for your `Cellpose2onnx` project. Here's a draft:
-
----
-
 # Cellpose2onnx
 
 Adapted from arivis V4D
